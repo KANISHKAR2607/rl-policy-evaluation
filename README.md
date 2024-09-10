@@ -1,6 +1,4 @@
-### Name : KANISHKAR M
-### Register Number :212222240044
-### Date :
+
 
 # POLICY EVALUATION
 
